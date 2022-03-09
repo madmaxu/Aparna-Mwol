@@ -42,7 +42,7 @@ Project created by <a href="https://github.com/Midhun-kalippan/Aparna-Mwol">APAR
 
 ## Click Instagram logo to follow this page👇
 
- [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/its_me_dron)
+ [![ANY DOUBT REFER IT](https://i.imgur.com/j1x0HpA.jpeg)](https://instagram.com/_midhun_x3_)
 
   ### Simple Method
   
@@ -88,14 +88,8 @@ $ node julie.js
 <a href="https://github.com/Midhun-kalippan/Aparna-Mwol/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Midhun-kalippan/Aparna-Mwol?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## 📢 Guide
-Click WA logo to Join Support Group 👇
-    <br>
-<br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z)
-  <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AMRUSIR&repo=AMRU-ser&theme=nightowl)](https://github.com/Midhun-kalippan/Aparna-Mwol)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Midhun-kalippan&repo=AMRU-ser&theme=nightowl)](https://github.com/Midhun-kalippan/Aparna-Mwol)
   </div>
     
 ### ⚠ Warning ⚠
