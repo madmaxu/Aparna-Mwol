@@ -9,20 +9,20 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
     var skl = await axios.get("https://i.imgur.com/CtaexU3.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇦 🇲 🇷 🇺   🇸 🇪 🇷  🇧 🇴 🇹 *
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Bᴏᴛ Nᴀᴍᴇ 🇦 🇵 🇦 🇷 🇳 🇦  🇲 🇼 🇴 🇱  *
 
-*Cʀᴇᴀᴛᴇʀ number : wa.me/917025631103?text=Hi%20ᴀᴍʀᴜ%20bro.%20*
+*Cʀᴇᴀᴛᴇʀ number : wa.me/918281370025?text=Hi%20ᴀᴍʀᴜ%20bro.%20*
 
 
- *Aᴍʀᴜ sᴇʀ Cʜᴀɴᴀʟ : https://youtu.be/x47g62HcsWc😁*
+ *Kᴀʟɪᴘᴘᴀɴ sᴇʀ Cʜᴀɴᴀʟ : https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA😁*
      
  *Iɴsᴛᴀɢʀᴀᴍ ɪᴅ: https://instagram.com/its_me_dron?utm_medium=copy_link*
 
- *Aᴍʀᴜ sᴇʀ Bᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/DnHJu25Ccss7zn72nPhL8z*
+ *Aᴘᴀʀɴᴀ Mᴡᴏʟ ʙᴏᴛ Gʀᴏᴜᴘ: https://chat.whatsapp.com/CDNbORWtY1KCPyrm5qNyIl*
 
- *Gɪᴛ Lɪɴᴋ : https://github.com/AMRUSIR/AMRU-SER*
+ *Gɪᴛ Lɪɴᴋ : https://github.com/Midhun-kalippan/Aparna-Mwol*
 
- *Aᴍʀᴜ-sᴇʀ-ʙᴏᴛꫂ⁩..♡︎*
+ *᭓Aᴘᴀʀɴᴀ Mᴡᴏʟ᭄↹🎀ꫂ⁩..♡︎*
 `}) 
 
 }));
