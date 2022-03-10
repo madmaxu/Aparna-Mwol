@@ -2,7 +2,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Amalser - Amal
-Wa.me/+918281440156
+Wa.me/+918281370025
 */
 
 const Neotro = require('../events');
@@ -20,18 +20,18 @@ var ddd = ggg.toString('utf-8')
 Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (async (message, match) => {
 // send a list message!
     const rows = [
-        {title: 'Aʙᴜ Bᴏᴛ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀs Aʙᴜ Sᴇʀ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aʙᴜ sᴇʀ *\n 🔮 http://wa.me/+917025994178.\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Lᴜᴄᴋʏ Sᴇʀ*\n🔮 http://wa.me/+916238748280\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Kᴀʟɴ*\n🔮 http://wa.me/+916238532742\n\n🎭 *Aʙᴜ Bᴏᴛ Bʏ Aᴘᴘᴜ Sᴇʀ*\n🔮 http://wa.me/+918590432917\n\n ", rowId:" rowid1"},
-        {title: 'Gɪᴛ', description: "Aʙᴜ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Arx-Abu/Abu_ser\n\n ", rowId:"rowid2"},
-        {title: 'Aʙᴜ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Kᴀʟᴀɴ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
-        {title: 'Kᴀʟɴ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Aʙᴜ Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Kᴀʟᴀɴ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtu.be/OYhA_ZNQ4GQ* ", rowId:" rowid6"},
+        {title: 'Kᴀʟɪᴘᴘᴀɴ sᴇʀ Oᴡɴᴇʀs Nᴜᴍʙᴇʀ', description: "⚙Bᴏᴛ Oᴡɴᴇʀ Nᴜᴍᴇʀ\n\n\n*◁ === Tɪs Oᴡɴᴇʀs Kᴀʟɪᴘᴘᴀɴ Nᴀɴʙᴜɴ Aɴᴅ Cʜᴜɴᴋs === ▷*\n\n🎭 *Aᴘᴀʀɴᴀ Bᴏᴛ Bʏ Kᴀʟɪᴘᴘᴀɴ sᴇʀ *\n 🔮 http://wa.me/+918281370025.\n\n🎭 *Aᴘᴀʀɴᴀ Bᴏᴛ Bʏ Mɪᴅʜᴜɴ-x3 Sᴇʀ*\n🔮 http://wa.me/+91828!370025\n\n🎭 *Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ Bʏ Oɢɢʏ*\n🔮 http://wa.me/+919400048101\n\n🎭 *Kᴀʟɪᴘʟᴀɴ Bᴏᴛ Bʏ Aᴘᴀʀɴᴀ sᴇᴄʜɪ*\n🔮 http://wa.me/+918590655022\n\n ", rowId:" rowid1"},
+        {title: 'Gɪᴛ', description: "Aᴘᴀʀɴᴀ Sᴇʀ Bᴏᴛ Mᴀᴋɪɴɢ Lɪɴᴋ.\n\n\n*◁ === 🥰🤗 Gɪᴛ Lɪɴᴋ === ▷*\n\nhttps://github.com/Midhun-kalippan/Aparna-Mwol\n\n ", rowId:"rowid2"},
+        {title: 'Aᴘᴀʀɴᴀ Bᴏᴛ Oғғɪᴄᴀʟ Gʀᴏᴜᴘ Bʏ Oɢɢʏ', description: "Gʀᴏᴜᴘ Lɪɴᴋ .\n\n\nhttps://chat.whatsapp.com/Bq0eHs3UpGJ2BKIHOmy7mk\n\n ", rowId:" rowid5"},
+        {title: 'Aᴘᴀʀɴᴀ Sᴇʀ Cʜᴀɴᴀʟ Lɪɴᴋ ', description: "Oggy Bᴏᴛ Mᴀᴋɪɴɢ Vɪᴅᴇᴏ Tʜɪs Cʜᴀɴᴀʟ\n\n\n*Oɢɢʏ Sᴇʀ Cʜᴀɴᴀʟ Sᴜʙsᴄʀᴀɪʙᴇ*\n\n*https://youtube.com/channel/UC1D6jQ-8pJd1PHCn8AIC_dA* ", rowId:" rowid6"},
         {title: 'Bᴏᴛ Gʀᴏᴜᴘ Dᴇsᴄʀɪᴘᴛɪᴏɴ', description: "Nɪʏᴀᴍᴀᴍ Iɴɪ Eʟʟᴀᴠᴀʀᴋᴋᴜᴍ Bᴀᴅʜᴀᴋᴀ Mᴀɴ \n\n\n☃️ᴏɴɴᴜᴍ ɪʟʟᴀ ɢʀᴏᴜᴘ ᴅᴇsᴄʀɪᴘᴛɪᴏɴ😁 \n\n  ", rowId:" rowid7"}
        ]
        
-       const sections = [{title: "Aʙᴜ sᴇʀ ❤️", rows: rows}]
+       const sections = [{title: "Kᴀʟɪᴘᴘᴀɴsᴇʀ ❤️", rows: rows}]
        
        const button = {
-        buttonText: '💚Aʙᴜ Bᴏᴛ💚',
-        description: "💖✻Aʙᴜ Sᴇʀ Bᴏᴛ✻💖",
+        buttonText: '💚Kᴀʟɪᴘᴘᴀɴ Bᴏᴛ💚',
+        description: "💖✻Aᴘᴀʀɴᴀ Bᴏᴛ✻💖",
         sections: sections,
         listType: 1
        }
