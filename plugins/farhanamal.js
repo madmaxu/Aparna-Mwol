@@ -2,7 +2,7 @@
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 Amalser - Amal
-Wa.me/+918281440156
+Wa.me/+918281370025
 */
 
 const Neotro = require('../events');
@@ -32,8 +32,8 @@ Neotro.addCommand({pattern: 'help', fromMe: false, dontAddCommandList: true}, (a
        const sections = [{title: "Aᴍʀᴜsᴇʀ ❤️", rows: rows}]
        
        const button = {
-        buttonText: 'Aᴍʀᴜ Sᴇʀ',
-        description: "༺═══✻Aᴍʀᴜ Sᴇʀ Bᴏᴛ✻═══༻",
+        buttonText: 'Aᴘᴀʀɴᴀ Mᴡᴏʟ,
+        description: "༺═══✻Aᴘᴀʀɴᴀ Bᴏᴛ✻═══༻",
         sections: sections,
         listType: 1
        }
