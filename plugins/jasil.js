@@ -22,7 +22,7 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the
 
  *Gɪᴛ Lɪɴᴋ : https://github.com/Midhun-kalippan/Aparna-Mwol*
 
- *᭓Aᴘᴀʀɴᴀ Mᴡᴏʟ᭄↹🎀ꫂ⁩..♡︎*
+ *Aᴘᴀʀɴᴀ Mᴡᴏʟ↹🎀ꫂ⁩..♡︎*
 `}) 
 
 }));
